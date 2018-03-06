@@ -39,4 +39,4 @@ Illustrated the relationship between tectonic plates and seismic activity.
 * D3.js
 
 ## The Image 
-![alt text](https://github.com/mrbalikci/world-quakes/blob/master/snip.PNG)
+![alt text](https://github.com/mrbalikci/world-quakes-tectonic-plates/blob/master/snip.PNG)
